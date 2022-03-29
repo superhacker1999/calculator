@@ -1,0 +1,4 @@
+C:\Users\kiryx\source\repos\calculator\calculator\x64\Debug\calculator.vcxproj.AssemblyReference.cache
+C:\Users\kiryx\source\repos\calculator\calculator\x64\Debug\calculator.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\kiryx\source\repos\calculator\calculator\x64\Debug\calculator.MyForm.resources
+C:\Users\kiryx\source\repos\calculator\calculator\x64\Debug\calculator.vcxproj.GenerateResource.cache
